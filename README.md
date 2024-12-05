@@ -4,7 +4,7 @@ Bu projede, Arduino ve 3D baskı kullanarak basit bir buttonbox (streamdeck) yap
 
 > İşte montajı tamamlanmış haliyle buttonbox:
 
-[![Arduino ile Buttonbox Yapımı](https://img.youtube.com/vi/vc0klLAnj_Q/0.jpg)](https://www.youtube.com/watch?v=vc0klLAnj_Q)
+![Buttonbox Thumbnail](img/tb.png)
 
 ## Video İzleme
 Videoyu izlemek için [Tıklayın](https://www.youtube.com/embed/vc0klLAnj_Q).
